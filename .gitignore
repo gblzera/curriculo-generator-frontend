@@ -1,8 +1,7 @@
 node_modules/
 public/
 index.css
-package-lock.json
-package.json
+
 
 
 dist/
